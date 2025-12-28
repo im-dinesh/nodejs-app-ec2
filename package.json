@@ -2,9 +2,9 @@
   "name": "node-ec2-git-app",
   "version": "1.0.0",
   "description": "Node.js app deployed on EC2 from Git repository",
-  "main": "app.js",
+  "main": "project.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node project.js"
   },
   "dependencies": {
     "express": "^4.18.2"
